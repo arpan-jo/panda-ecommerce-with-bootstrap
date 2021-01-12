@@ -1,0 +1,36 @@
+.price{
+    color: #E35300;
+}
+.carousel-bakcground{
+    background-color: #FEEAE9;
+    border-radius: 0.8em;
+}
+.catagories-section img{
+    height: 100px;
+}
+.cata-shoes{
+    background-color: #DA70D6;
+}
+.catagories-section h3{
+    color: white;
+}
+.shoes-catalog h3, .bag-catalog h3{
+    color: #E35300;
+}
+.shoes-catalog p, .bag-catalog p{
+    text-align: justify;
+}
+.bag-border{
+    border: 0px;
+    border-radius: 0.8em;
+}
+.card-border{
+    background-color: white;
+    border-top: white;
+}
+.card-border button{
+    color: white;
+}
+.subscribe-section{
+    background-color: #FCEAE8;
+}
